@@ -1,0 +1,16 @@
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.exe
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.deps.json
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.json
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.dll
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.dll
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\refint\AreaOfFigures.dll
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.genruntimeconfig.cache
+C:\Users\mehme\source\repos\ConditionalStatementsLab\AreaOfFigures\obj\Debug\net5.0\ref\AreaOfFigures.dll

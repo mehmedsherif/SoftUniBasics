@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.exe
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.deps.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfo.cs
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

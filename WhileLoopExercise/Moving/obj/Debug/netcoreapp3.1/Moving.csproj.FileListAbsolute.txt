@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\mehme\source\repos\WhileLoopExercise\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

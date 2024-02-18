@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

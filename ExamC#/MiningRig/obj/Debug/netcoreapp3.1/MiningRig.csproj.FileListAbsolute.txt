@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.exe
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.deps.json
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.json
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\mehme\source\repos\ExamC#\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\mehme\source\repos\ExamC#\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.genruntimeconfig.cache

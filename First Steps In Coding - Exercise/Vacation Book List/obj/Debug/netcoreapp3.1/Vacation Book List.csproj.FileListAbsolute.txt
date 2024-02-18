@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.exe
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.deps.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.runtimeconfig.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\bin\Debug\netcoreapp3.1\Vacation Book List.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.AssemblyInfo.cs
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Vacation Book List\obj\Debug\netcoreapp3.1\Vacation Book List.genruntimeconfig.cache

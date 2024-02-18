@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\mehme\source\repos\ForLoopExercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\mehme\source\repos\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache

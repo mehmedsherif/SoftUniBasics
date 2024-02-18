@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.exe
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.deps.json
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.runtimeconfig.json
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.dll
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\bin\Debug\netcoreapp3.1\GiftsFromsanta.pdb
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.dll
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.pdb
+C:\Users\mehme\source\repos\ExamC#\GiftsFromsanta\obj\Debug\netcoreapp3.1\GiftsFromsanta.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.exe
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.deps.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfo.cs
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.genruntimeconfig.cache

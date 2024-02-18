@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.exe
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.deps.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfo.cs
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\mehme\source\repos\First Steps In Coding - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.genruntimeconfig.cache

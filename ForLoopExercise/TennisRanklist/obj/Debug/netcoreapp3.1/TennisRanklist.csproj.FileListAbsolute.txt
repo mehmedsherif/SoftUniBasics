@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.exe
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.deps.json
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.runtimeconfig.json
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.dll
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.pdb
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.dll
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.pdb
+C:\Users\mehme\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.genruntimeconfig.cache

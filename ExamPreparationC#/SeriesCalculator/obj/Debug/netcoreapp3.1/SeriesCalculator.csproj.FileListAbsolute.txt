@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.exe
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.deps.json
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.runtimeconfig.json
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.dll
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\bin\Debug\netcoreapp3.1\SeriesCalculator.pdb
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.AssemblyInfo.cs
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.dll
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.pdb
+C:\Users\mehme\source\repos\ExamPreparationC#\SeriesCalculator\obj\Debug\netcoreapp3.1\SeriesCalculator.genruntimeconfig.cache
